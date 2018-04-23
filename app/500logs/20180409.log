@@ -1,0 +1,20 @@
+[Mon, 09 Apr 18 14:13:55 +0700][ERROR] [0]: Column 'no' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE no = '1' LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:28:13 +0700][ERROR] [0]: Column 'no' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE no = '1' LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:28:16 +0700][ERROR] [0]: Column 'no' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE no = 'event' LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:28:17 +0700][ERROR] [0]: Column 'no' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE no = 'event' LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:28:18 +0700][ERROR] [0]: Column 'no' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE no = 'about' LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:28:19 +0700][ERROR] [0]: Column 'no' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE no = 'event' LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:28:19 +0700][ERROR] [0]: Column 'no' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE no = 'event' LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:28:20 +0700][ERROR] [0]: Column 'no' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE no = 'about' LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:28:22 +0700][ERROR] [0]: Column 'no' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE no = 'event' LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:28:22 +0700][ERROR] [0]: Column 'no' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE no = '1' LIMIT :APL0:
+
